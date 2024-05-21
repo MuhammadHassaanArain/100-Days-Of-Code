@@ -1,0 +1,11 @@
+{
+  "name": "question-04",
+  "version": "1.0.0",
+  "description": "Day 02 of 100 Days of coding challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassaan Arain",
+  "license": "MIT"
+}
